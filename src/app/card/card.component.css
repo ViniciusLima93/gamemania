@@ -1,0 +1,33 @@
+.estilo {
+   width: 120rem;
+   height: 50rem;
+   display: grid;
+   place-items: center;
+   background-color: rgb(12,39,64) !important;
+   margin-left:-0.25rem;
+}
+
+.text {
+    text-align: center;
+    margin-right: -70rem;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+img {
+    width: 60rem;
+    position: absolute;
+    place-items: left;
+    display: flex;
+    border-radius: 1rem;
+    margin-left: -48rem;
+}
+
+button {
+    padding: 1rem;
+    margin-top:1rem;
+    width:15rem;
+    border-radius:30rem;
+    background-color: rgb(45,244,77);
+}

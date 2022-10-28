@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "produto": "GABINETE GAMER TOP",
+      "valor": "R$ 2.799,00"
+    },
+    {
+      "id": 2,
+      "produto": "CONSOLE PS5",
+      "valor": "R$4.499,89"
+    }
+  ]
+}

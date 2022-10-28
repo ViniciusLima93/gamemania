@@ -1,0 +1,27 @@
+.estilo {
+    display: flex;
+    width: 100rem;
+    height: 3rem;
+    margin-top: 2rem;
+    margin-left:5rem ;
+    background-color: rgb(12,39,64)  !important ;  
+}
+
+.Corpo {
+    background-color: rgb(12,39,64) !important;
+    width: 120rem;
+    height: 10rem;
+    margin-top: -2rem;
+}
+
+button {
+    padding: 1rem 1rem 2rem 1rem;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 200%;
+    font:bold;
+
+
+}

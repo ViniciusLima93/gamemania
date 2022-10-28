@@ -1,0 +1,16 @@
+
+.container {
+  height: 45rem;
+}
+.example-card {
+
+    display:inline-block !important;
+    width: 20rem ;
+    height: 30rem !important;
+    background-color:  rgb(5,36,97,90%); 
+    border-radius: 1rem;
+    justify-content: center;
+    margin-left: 14rem; 
+    
+  }
+  

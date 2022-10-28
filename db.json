@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "email": "vnlima@gmail.com",
+      "password": "$2a$10$7Nez1x9JtGXRVouve4KrYeRj7gPGDdBqDHJLH2cG9dgItAWmMLSGq",
+      "id": 4
+    },
+    {
+      "email": "vinicius@gmail.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "email": "keanureaves@gmail.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "email": "keanureaves@gmail.com",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "email": "durodematar'''@gmail.com",
+      "password": "$2a$10$867cpFNeceoz.VqYBOwNluZI/LIr0npcI.tPpJsWbvWXkM/4vC2zO",
+      "id": 9
+    }
+  ]
+}
